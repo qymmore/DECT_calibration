@@ -1,4 +1,4 @@
-# DECT K2HPO4 Calibration 
+# K2HPO4 Calibration 
 
 The code has been modified for use with the Mindways solid CT K2HPO4 calibration phantom with five rods labelled A to E. <br>
 
