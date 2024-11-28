@@ -1,15 +1,6 @@
 """
     This code was adapted from the University of Calgary Bonelab DECT_PhantomCalibration.py (https://github.com/Bonelab/DECT_BoneAnalysis/tree/master)
     The code has been modified for use with the Mindways solid CT K2HPO4 calibration phantom with five rods labelled A to E.
-    
-    ############################
-    
-    Sarah Quayyum
-    MSc. Kinesiology and Health Science
-    University of Waterloo
-    Modified May 04, 2023
-    
-    ############################
 """
 
 # Import all modules for the function
